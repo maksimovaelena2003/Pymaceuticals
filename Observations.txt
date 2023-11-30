@@ -1,0 +1,7 @@
+	Analysis of animal study for potential treatment for squamous cell carcinoma (SCC). 249 mice received treatment with a range of drug regiments. Over the course of 45 days, tumor development was observed and measured.
+	I compare the performance of Pymacutical’s drug Capomulin against the other treatment regiments.
+	Concerning the gender of the mice, the distribution was almost equal 51% of male and 49% of female.
+	9 drug regiments and 1 placebo were tested.
+	Comparison of summary statistics reveal that Ramicane regimen, followed by Capomulin have the lowest mean, median, variance, and standard Deviation. It means that they both have more consistent results and seems more effective in reducing tumor growth.
+	Analysis of Capomulin regimen on one randomly selected mouse (ID b742) reveal that the tumor volume declined over the period of study (45 days), but during this period the volume several times slightly  increased.
+	The correlation between mouse weight and average tumor volume shows that when weight of mouse increased the average tumor also increased.
